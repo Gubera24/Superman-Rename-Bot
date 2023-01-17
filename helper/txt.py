@@ -1,20 +1,20 @@
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ WebX Bot Renaming... ❱━➣
-┣⪼ 🗂️ : {1} | {2}
-┣⪼ ⏳️ : {0}%
-┣⪼ 🚀 : {3}/s
-┣⪼ ⏱️ : {4}
+╭━━━━❰ Tamil Cartoon Renaming... ❱━➣
+┣⪼ 🎞 : {1} | {2}
+┣⪼ ⏳ : {0}%
+┣⪼ 🚓 : {3}/s
+┣⪼ ⌚️ : {4}
 ╰━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 My Name is : {}
-├👑 CHANNEL : <a href=https://t.me/WebXBots>WebXBots</a> 
-├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
+├👑 CHANNEL : <a href=https://t.me/+BI4pmXwsp5o0YTQ1>Tamil Cartoons HD</a> 
+├🦋 Patner : <a href=https://t.me/+-dxpAX6SVhliMGVl>Horror Movies Tamil</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.oracle.com/cloud/>Render</a>
+├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.Scalingo.com/cloud/>Scalingo</a>
 ├📊 BUILD-STATUS : Python v3.10.5              
 ╰───────────────⍟
                                 """
