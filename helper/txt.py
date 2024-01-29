@@ -1,17 +1,17 @@
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Tamil Cartoon Renaming... ❱━➣
-┣⪼ 🎞 : {1} | {2}
-┣⪼ ⏳ : {0}%
-┣⪼ 🚓 : {3}/s
-┣⪼ ⌚️ : {4}
-╰━━━━━━━━━━━━━━━➣ """
+╔════❰ @Tamilan24 Renaming... ❱══➣
+║⪼ 🎥 : {1} | {2}
+║⪼ 👾 : {0}%
+║⪼ 🚀 : {3}/s
+║⪼ ⌚️ : {4}
+╚═══════════════➣ """
 
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 My Name is : {}
-├👑 CHANNEL : <a href=https://t.me/+BI4pmXwsp5o0YTQ1>Tamil Cartoons HD</a> 
-├🦋 Patner : <a href=https://t.me/+-dxpAX6SVhliMGVl>Horror Movies Tamil</a>
+├👑 CHANNEL : <a href=https://t.me/+bOs6GU49VYk0YjZl>Prime Video Tamil</a> 
+├🦋 Owner : <a href=https://t.me/Tamilanda29>⚡Just Uploader⚡</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
 ├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.Scalingo.com/cloud/>Scalingo</a>
