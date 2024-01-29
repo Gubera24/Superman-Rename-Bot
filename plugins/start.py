@@ -18,15 +18,15 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton(" Developer ", callback_data='dev')
         ],[
-        InlineKeyboardButton(' 🎤Updates', url='https://t.me/+BI4pmXwsp5o0YTQ1'),
-        InlineKeyboardButton(' 🖐Support', url='https://t.me/+BI4pmXwsp5o0YTQ1')
+        InlineKeyboardButton(' 🎤Updates', url='https://t.me/+bOs6GU49VYk0YjZl'),
+        InlineKeyboardButton(' 🖐Support', url='https://t.me/Tamilan41')
         ],[
         InlineKeyboardButton(' About', callback_data='about'),
         InlineKeyboardButton(' Help', callback_data='help')
         ],[
         InlineKeyboardButton("🍓 All Webseries Tamil 🍓!", url='https://t.me/+BI4pmXwsp5o0YTQ1')
         ],[
-        InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url='https://t.me/+BI4pmXwsp5o0YTQ1')
+        InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url='https://t.me/+bOs6GU49VYk0YjZl')
         ]
         ])
     if START_PIC:
@@ -72,15 +72,15 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
         InlineKeyboardButton(" Developer ", callback_data='dev')
         ],[
-        InlineKeyboardButton(' 🎤Updates', url='https://t.me/+BI4pmXwsp5o0YTQ1'),
-        InlineKeyboardButton(' 🖐Support', url='https://t.me/+BI4pmXwsp5o0YTQ1')
+        InlineKeyboardButton(' 🎤Updates', url='https://t.me/+bOs6GU49VYk0YjZl'),
+        InlineKeyboardButton(' 🖐Support', url='https://t.me/Tamilan41')
         ],[
         InlineKeyboardButton(' About', callback_data='about'),
         InlineKeyboardButton(' Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🍓 All Webseries Tamil 🍓!", url='https://t.me/+BI4pmXwsp5o0YTQ1')
+        InlineKeyboardButton("🍓 All Webseries Tamil 🍓!", url='https://t.me/+JjT99ajwqQs1Mjdl')
         ],[
-        InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url='https://t.me/+BI4pmXwsp5o0YTQ1')
+        InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url='https://t.me/+bOs6GU49VYk0YjZl')
         ]
         ]
                 )
@@ -89,7 +89,7 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton("🍓 All Webseries Tamil 🍓", url="https://t.me/+BI4pmXwsp5o0YTQ1")
+               InlineKeyboardButton("🍓 All Webseries Tamil 🍓", url="https://t.me/+JjT99ajwqQs1Mjdl")
                ],[
                InlineKeyboardButton(" 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton(" 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -101,7 +101,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
-                InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url="https://t.me/+BI4pmXwsp5o0YTQ1")
+                InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton(" 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton(" 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -112,7 +112,7 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-                InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url="https://t.me/+BI4pmXwsp5o0YTQ1")
+                InlineKeyboardButton("❤️‍🔥 Prime Video Tamil ❤️‍🔥", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton(" 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton(" 𝙱𝙰𝙲𝙺", callback_data = "start")
